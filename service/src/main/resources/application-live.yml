@@ -1,0 +1,8 @@
+# =================================
+# = Spring
+# =================================
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://realmeet-db.cggg8rrrfymw.us-east-1.rds.amazonaws.com:3306/bluemeet?&serverTimezone=UTC&useSSL=false
+    username: admin
